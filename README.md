@@ -11,5 +11,5 @@ I'm other one
 
 pull request
 
-Don;t reject my request please
+Don't reject my request please
 
